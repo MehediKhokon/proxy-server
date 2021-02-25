@@ -14,3 +14,6 @@ This project was bootstrapped with react and google spread sheet
 - semantic ui 
 
 *Note: only data post are shown here. Data fetch will coming soon*
+
+### Live link
+*Coming soon*
