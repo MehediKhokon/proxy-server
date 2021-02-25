@@ -8,3 +8,9 @@ This project was bootstrapped with react and google spread sheet
 - api connect through axios
 - [sheet.best](https://sheet.best/) convert google sheet to api view
 
+### stack list
+- React
+- google sheet
+- semantic ui 
+
+*Note: only data post are shown here. Data fetch will coming soon*
